@@ -2,7 +2,7 @@
 
 各种排序算法的实现(RStudio / R)：
 
-<font color=red>注意：电脑中要实现安装好R语言环境.</font>
+<font color=red>注意：电脑中要事先安装好R语言环境.</font>
 
 ------
 
